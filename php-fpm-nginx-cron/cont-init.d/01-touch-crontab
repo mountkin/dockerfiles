@@ -1,0 +1,2 @@
+#!/usr/bin/execlineb -P
+touch /etc/crontab
